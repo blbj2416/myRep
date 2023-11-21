@@ -1952,15 +1952,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 山东综合,#genre#
-山东卫视,https://livealone302.iqilu.com/iqilu/sdtv00.m3u8?shandd
-山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd00.m3u8?shandd
-山东体育,https://livealone302.iqilu.com/iqilu/typd00.m3u8?shandd
-山东农科,https://livealone302.iqilu.com/iqilu/nkpd00.m3u8?shandd
-山东新闻,https://livealone302.iqilu.com/iqilu/ggpd00.m3u8?shandd
-山东少儿,https://livealone302.iqilu.com/iqilu/sepd00.m3u8?shandd
-山东文旅,https://livealone302.iqilu.com/iqilu/yspd00.m3u8?shandd
-山东综艺,https://livealone302.iqilu.com/iqilu/zypd00.m3u8?shandd
-山东生活,https://livealone302.iqilu.com/iqilu/shpd00.m3u8?shandd
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
@@ -1977,7 +1968,15 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
-
+山东卫视,https://livealone302.iqilu.com/iqilu/sdtv00.m3u8?shandd
+山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd00.m3u8?shandd
+山东体育,https://livealone302.iqilu.com/iqilu/typd00.m3u8?shandd
+山东农科,https://livealone302.iqilu.com/iqilu/nkpd00.m3u8?shandd
+山东新闻,https://livealone302.iqilu.com/iqilu/ggpd00.m3u8?shandd
+山东少儿,https://livealone302.iqilu.com/iqilu/sepd00.m3u8?shandd
+山东文旅,https://livealone302.iqilu.com/iqilu/yspd00.m3u8?shandd
+山东综艺,https://livealone302.iqilu.com/iqilu/zypd00.m3u8?shandd
+山东生活,https://livealone302.iqilu.com/iqilu/shpd00.m3u8?shandd
 
 四川综合,#genre#
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
