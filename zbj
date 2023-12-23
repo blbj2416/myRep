@@ -120,6 +120,10 @@
             "name": "🚚豆瓣之家",
             "url": "http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json"
         },
+         {
+            "name": "🚚胖虎",
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json"
+        },
         {
             "name": "🚚小苹果",
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
