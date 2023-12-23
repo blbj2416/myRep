@@ -112,6 +112,10 @@
             "name": "🚚运输车{跑马灯}",
             "url": "https://weixine.net/ysc.json"
         },
+         {
+            "name": "🚚霜辉月明",
+            "url": "https://raw.gitmirror.com/lm317379829/PyramidStore/pyramid/py.json"
+        },
         {
             "name": "🚚小苹果",
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
