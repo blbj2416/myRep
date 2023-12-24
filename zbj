@@ -13,8 +13,12 @@
             "url": "http://www.lyyytv.cn/yt/yt.json"
         },
         {
-            "name": "💠欧歌",
+            "name": "💠欧歌1",
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"
+        },
+        {
+            "name": "💠欧歌2",
+            "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
         },
         {
             "name": "🛡大卫",
